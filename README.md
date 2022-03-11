@@ -1,0 +1,1 @@
+# Temperatura_mean_Peru_Cusco
